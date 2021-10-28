@@ -1,5 +1,5 @@
 # Final_P4DS
-Đây là đồ án cuối kì môn Lập trình cho Khoa học Dữ liệu
+Analyze data about Netflix Movies/TV Shows published on Kaggle to answer the question of who is the right audience to watch movies on Netflix
 
 # Thông tin nhóm
 - STT: 13
